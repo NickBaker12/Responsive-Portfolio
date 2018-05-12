@@ -1,0 +1,140 @@
+* {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+body{
+    background-image: url('../images/ep_naturalwhite.png');
+    margin: 0px;
+}
+.top {
+    background-color: white;
+    width: 100%;
+    height: 110px;
+    border-bottom: 4px solid #cccccc;
+}
+.navbox {
+    background-color: white;
+    border-color: #cccccc;
+    margin: 0 auto;
+    width: 960px;
+    height: 100px;
+}
+.navbox p {
+    padding: 10px;
+}
+.logobox {
+    background-color: #4aaaa5;
+    width: auto;
+    float: left;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.logobox h1 {
+    padding: 5px 20px 5px 20px;
+    color: white;
+}
+nav {
+    float: right;
+    padding-top: 35px;
+}
+nav a {
+    text-decoration: none;
+}
+main {
+    clear: both;
+    background-color: white;
+    border-color: #dddddd;
+    margin: 0 auto;
+    width: 960px;
+    padding: 10px;
+    margin-top: 30px;
+    height: auto;
+}
+#indexmain {
+    height: 312px;
+}
+#portfolio-main {
+    height: 700px;
+}
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+img {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    max-width: 200px;
+    max-height: 200px;
+}
+hr {
+    border-width: 4px;
+    border-color: #dddddd;
+}
+.mepic {
+    max-width: 200px;
+    float: left;
+    margin: 10px;
+}
+.words {
+    margin: 10px;
+}
+button {
+    margin-top: 20px;
+    display: block;
+    color: white;
+    font-size: 16px;
+    background-color:#4aaaa5;
+    border: 0px;
+    padding: 10px 20px 10px 20px;
+}
+textarea, input {
+    width: 100%
+}
+textarea {
+    height: 150px;
+}
+.form-title {
+    margin-bottom: 1px;
+}
+.imagebox {
+    position: relative;
+    float: left;
+}
+.imagebox2 {
+    position: relative;
+    clear: both;
+    float: left;
+}
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#abstract1box {
+    width: 196.656px;
+}
+#abstract2box, #sushibox, #yumbox {
+    width: 200px;
+}
+#yum2box {
+    width: 178.391;
+}
+.text-block h3 {
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.footer-strip {
+    width: 100%;
+    height: 10px;
+    background-color: #4aaaa5;
+}
+footer {
+    margin-top: 300px;
+    text-align: center;
+    background-color: #666666;
+}
